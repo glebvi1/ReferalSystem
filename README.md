@@ -4,6 +4,8 @@
 
 Пример использования через [Postman](https://www.postman.com/glebvi/workspace/my-workspace/collection/29233025-64513366-e014-40bd-ab17-3fda9a521a8d?action=share&source=copy-link&creator=29233025)
 
+[Ссылка на ТЗ](https://disk.yandex.ru/edit/d/Xr5imrIFqzIG6cHGqdyCoSPegnqahzm72s0qoIz-cKg6LVkydlZ3by1aZw)
+
 ## Описание
 ### Авторизация
 **Адрес:** /user/login/ [POST]
